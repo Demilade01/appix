@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="60" height="60" viewBox="0 0 60 60">
+  <g id="Group_1" data-name="Group 1" transform="translate(6326 1276)">
+    <rect id="Rectangle_1" data-name="Rectangle 1" width="60" height="60" rx="30" transform="translate(-6326 -1276)" fill="#3f67f3"/>
+    <path id="ui-play" d="M116.091,8.866c0-2.138-.142-4.289.038-6.414C116.326.1,117.88-.637,119.847.7c3.019,2.048,5.949,4.237,8.849,6.453,1.543,1.177,1.534,2.579-.036,3.758-2.99,2.246-5.987,4.489-9.074,6.6-1.669,1.141-3.229.383-3.406-1.694-.2-2.3-.045-4.63-.045-6.946h-.045Z" transform="translate(-6416.037 -1255.037)" fill="#fff"/>
+  </g>
+</svg>
